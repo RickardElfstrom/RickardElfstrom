@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Graphics
 - 🌱 I’m currently learning Opengl and Unreal Engine 5
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me RickardElfstrom.A@hotmail.com
+- 📫 How to reach me RickardElfstrom.Arbete@hotmail.com
 
 <!---
 RickardElfstrom/RickardElfstrom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
